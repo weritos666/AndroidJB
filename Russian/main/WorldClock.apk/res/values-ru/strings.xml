@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мировое время</string>
+    <string name="delete_timezone_title">Удалить часы?</string>
+    <string name="delete_timezone_tip">эти часы будут удалены.</string>
+    <string name="add_custom_timezone">Выбрать часовой пояс</string>
+    <string name="custom_timezone_header">Часовой пояс</string>
+    <string name="label_city">город</string>
+    <string name="city_field_empty_prompt">Please fill City field.</string>
+    <string name="hour_field_empty_prompt">Please fill Hour field.</string>
+    <string name="minute_field_empty_prompt">Please fill Minute field.</string>
+    <string name="hint_city">город (обязательно)</string>
+    <string name="label_gmt">GMT</string>
+    <string name="sign_pos">+</string>
+    <string name="sign_neg">-</string>
+    <string name="hour_label">HH</string>
+    <string name="default_hour">0</string>
+    <string name="minute_label">MM</string>
+    <string name="default_minute">0</string>
+    <string name="add_timezone">Добавить часовой пояс</string>
+    <string name="timezone_header">Часовой пояс</string>
+    <string name="clock_reach_max">Could NOT add more clock. Delete useless clock first.</string>
+</resources>

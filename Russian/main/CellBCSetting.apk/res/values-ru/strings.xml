@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сотовое вещание</string>
+    <string name="quit">Quit</string>
+    <string name="slot1">разъем 1</string>
+    <string name="slot2">разъем 2</string>
+    <string name="on">Включить</string>
+    <string name="off">Отключить</string>
+    <string name="edit">редактировать</string>
+    <string name="delete">удалить</string>
+    <string name="chn_info">Информация о канале</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="duplicate_warning">Not Allow duplicate Channel Name or Number</string>
+    <string name="empty_warning">Not Allow Empty Channel Name or Number</string>
+    <string name="enable_cbc_failed">Не удалось включить прием сообщений сети на этом канале</string>
+    <string name="disable_cbc_failed">failed to disable cell broadcast receiving in this channel</string>
+    <string name="cbc_title">Сотовоевещание</string>
+    <string name="add_channel">добавить канал</string>
+    <string name="chn_list">Список каналов</string>
+    <string name="cell_setting">Настроки Сотового вещания</string>
+    <string name="receive_cell_sms">Получать сообщения сотового вещания</string>
+    <string name="ChannelName">Имя</string>
+    <string name="ChannleNumber">Номер</string>
+    <string name="EnableChannel">Канал Вкл</string>
+    <string name="menu_edit">редактировать</string>
+    <string name="menu_delete">удалить</string>
+    <string name="context_menu_header_title">контекстная операция</string>
+    <string name="sample1">Образец1</string>
+    <string name="sample2">Образец2</string>
+</resources>

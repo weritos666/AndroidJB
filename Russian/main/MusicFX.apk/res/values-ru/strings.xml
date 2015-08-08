@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Эффекты недоступны.</string>
+    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+    <string name="bass_boost_strength">Усиление нижних частот</string>
+    <string name="virtualizer_strength">Эффект 3D</string>
+    <string name="pr_title">Реверберация:</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+    <string name="pr_dialog_title">Шаблон ревербератора</string>
+    <string name="setup">Настройка</string>
+    <string name="normal">Нормально</string>
+    <string name="classical">Классика</string>
+    <string name="dance">танцы</string>
+    <string name="flat">плоско</string>
+    <string name="folk">фолк</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="jazz">Джаз</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="ci_extreme">Усилитель FX</string>
+    <string name="user">Пользователь</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
+    <string name="feature_work_text">Эти возможности доступны только при использовании наушников.</string>
+    <string name="srs_no_effects">Нормально</string>
+    <string name="srs_standard">Стандартно</string>
+    <string name="srs_acoustic">Акустика</string>
+    <string name="srs_blues">Блюз</string>
+    <string name="srs_classical">Классика</string>
+    <string name="srs_hiphop">Нормально 2</string>
+    <string name="srs_jazz">Джаз</string>
+    <string name="srs_pop">Поп</string>
+    <string name="srs_rock">Рок</string>
+    <string name="srs_techno">Техно</string>
+    <string name="srs_voice">Голос</string>
+    <string name="srs_user">Пользователь</string>
+    <string name="trubass_slide">Trubass</string>
+    <string name="wowhd_definition">Разрешение</string>
+    <string name="wowhd_space">Модуляция</string>
+    <string name="application_name">Эквалайзер</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Подтвердить</string>
+</resources>

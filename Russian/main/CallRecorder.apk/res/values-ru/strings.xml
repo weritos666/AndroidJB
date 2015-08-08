@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_record">Запись звонка</string>
+    <string name="discard">Отклонить</string>
+    <string name="accept">Принять</string>
+    <string name="message_no_sdcard">Пожалуйста вставьте SD-карту</string>
+    <string name="message_internal_error">Error when recording</string>
+    <string name="message_success">Файл будет сохранен в %1$s</string>
+    <string name="message_record_started">Record has started</string>
+    <string name="message_recording">Запись звонка</string>
+    <string name="message_not_incall">Only enabled when in call</string>
+</resources>

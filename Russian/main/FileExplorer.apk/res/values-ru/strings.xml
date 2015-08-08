@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, QRDFileExplorer!</string>
+    <string name="app_name">Проводник</string>
+    <string name="app_name_dir_sel">Select the folder</string>
+    <string name="app_name_file_sel">Выбрать файлы</string>
+    <string name="sdcard">SD</string>
+    <string name="up">Up</string>
+    <string name="menu_copy">Копировать</string>
+    <string name="menu_move">Переместить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_rename">Переименовать</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_property">Свойства</string>
+    <string name="menu_exit">Выход</string>
+    <string name="context_menu_name">Действия с файлом</string>
+    <string name="dialog_deleting_confirm">Вы уверены, что хотите удалить?</string>
+    <string name="dialog_overwrite_confirm">Вы хотите перезаписать файл %s?</string>
+    <string name="dialog_rename_title">Введите новое имя.</string>
+    <string name="toast_operate_failed">Не удалось!</string>
+    <string name="progress_title">Подождите</string>
+    <string name="info_copy_file">Копирование файла...</string>
+    <string name="info_move_file">Перемещение файла...</string>
+    <string name="info_deleting_file">Удаление файла...</string>
+    <string name="format_file_info">"Имя: %1$s
+Путь: %2$s
+Изменено: %3$s"</string>
+    <string name="format_property_info">"Система
+Всего: %1$s
+Доступно: %2$s
+------------------
+SD карта
+Всего: %3$s
+Доступно: %4$s"</string>
+    <string name="menu_new_folder">Новый</string>
+    <string name="new_folder">Создать новую папку</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="toast_select_files">Please select files</string>
+    <string name="toast_no_sd">Отсутствует карта SD</string>
+    <string name="toast_file_exists">Не удалось. файлуже существует.</string>
+    <string name="can_not_find_a_suitable_program_to_open_this_file">нет приложения.</string>
+    <string name="can_not_open_file">невозможно открыть.</string>
+    <string name="name_is_too_long">Переименование не удалось, имя слишком длинное</string>
+    <string name="name_include_wrong_char">"Переименовать не удалось.
+Name can not inlcude (  ' \" ;)"</string>
+    <string name="internal">Вн. Память</string>
+    <string name="sort">Типы Ф-ов</string>
+    <string name="audio">Аудио</string>
+    <string name="video">Видео</string>
+    <string name="image">Картинки</string>
+    <string name="document">Документы</string>
+    <string name="archive">Архивы</string>
+    <string name="application">Приложения</string>
+    <string name="recent">Недавние</string>
+    <string name="delete_record">Delete recent</string>
+    <string name="search_msg">input all or part of file name</string>
+    <string name="search_result">Результаты поиска:</string>
+    <string name="loading">загрузка...</string>
+    <string name="shortcuts">Создать иконку</string>
+    <string name="sdcard_missing_message">Отсутствует карта SD.</string>
+</resources>
